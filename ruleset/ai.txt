@@ -84,3 +84,8 @@ payload:
   ## Perplexity
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,pplx.ai
+
+  ## Dreamina
+  - DOMAIN-SUFFIX,capcut.com
+  - DOMAIN-SUFFIX,capcutapi.com	
+  # - DOMAIN-SUFFIX,ibyteimg.com	
