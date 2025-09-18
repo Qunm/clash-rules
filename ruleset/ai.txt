@@ -86,6 +86,8 @@ payload:
   - '+.pplx.ai'
 
   ## Dreamina
+  - 'dreamina.capcut.com'
   - '+.capcut.com'
   - '+.capcutapi.com'
+  - '+.capcutstatic.com'
   # '+.ibyteimg.com'
