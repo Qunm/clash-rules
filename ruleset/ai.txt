@@ -87,5 +87,5 @@ payload:
 
   ## Dreamina
   - DOMAIN-SUFFIX,capcut.com
-  - DOMAIN-SUFFIX,capcutapi.com	
-  # - DOMAIN-SUFFIX,ibyteimg.com	
+  - DOMAIN-SUFFIX,capcutapi.com
+  # - DOMAIN-SUFFIX,ibyteimg.com
